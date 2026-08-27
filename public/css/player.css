@@ -1,0 +1,39 @@
+/* Player Específico */
+
+.player-wrapper {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.player-header {
+  background: linear-gradient(135deg, #F4D03F 0%, #DAA520 100%);
+  padding: 15px;
+  color: #2C1810;
+  font-weight: bold;
+  text-align: center;
+}
+
+.player-body {
+  padding: 20px;
+}
+
+/* Scroll customizado */
+.player-sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.player-sidebar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.player-sidebar::-webkit-scrollbar-thumb {
+  background: #DAA520;
+  border-radius: 10px;
+}
+
+.player-sidebar::-webkit-scrollbar-thumb:hover {
+  background: #8B4513;
+}

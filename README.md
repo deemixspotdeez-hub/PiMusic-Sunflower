@@ -34,7 +34,7 @@ FileZilla ↔ Transferência de arquivos
 - **Principal**: pimusic.com.br
 - **Acesso**: Cloudflare Tunnel
 
-## 📦 Estrutura do Projeto
+## ��� Estrutura do Projeto
 
 ```
 PiMusic-Sunflower/
